@@ -1,4 +1,4 @@
- """# 📌 Social Media Analysis Dashboard
+# 📌 Social Media Analysis Dashboard
 
 ---
 
@@ -58,10 +58,9 @@ To develop an interactive Excel dashboard that:
 
 ## 🎓 Learning & Outcome  
 This project improved my ability to analyze survey data, create compelling dashboards in Excel, and translate raw data into meaningful insights for personal and academic growth.
-"""
 
-# Save the README.md file
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(readme_content)
+---
 
-print("README.md file has been created.")
+ ### Snapshot of dashboard
+![Alt text](https://github.com/Janhavi-07/Social-Media-Analysis/blob/main/SocialMediaAnalysis.PNG)
+
